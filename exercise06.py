@@ -4,4 +4,4 @@ class Mobil():
         self.mileage = mileage
 
 carX = Mobil(300, 18)
-print(carX.max_speed, carX.mileage)
+print(f" Max Speed:{carX.max_speed}, Mileage:{carX.mileage}")
