@@ -11,7 +11,7 @@ class Motor:
     def getMaxSpeed(self):
         return self.maxSpeed
 
-#Second class
+# Second class
 class Honda(Motor):
 
     def __init__(self, type=None, gear=None, color=None):
