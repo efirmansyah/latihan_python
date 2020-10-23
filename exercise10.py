@@ -38,4 +38,4 @@ for i, v in phone.items():
 tp = ("Draft","Progress","Done")
 print(tp)
 
-#ls = list(tp)
+ls = list(tp)
